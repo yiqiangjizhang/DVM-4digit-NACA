@@ -6,3 +6,12 @@ It is requested to write a computer code to analyze NACA 4-digit airfoils with t
 
 With the input data described, the program should compute the lift coefficient (Cl) and the coefficient of moment about the leading edge (Cmle). Once your code runs properly carry out the following analyses: Verification and Validation.
 
+<img src="images/mean_chord.jpg" width="500">
+
+Plotting Cl with DVM method and TAT and the relative error:
+
+<img src="images/cl_dvm_tat.jpg" width="500">
+
+Plotting Cm with DVM method and TAT and the relative error:
+
+<img src="images/cm_dvm_tat.jpg" width="500">
